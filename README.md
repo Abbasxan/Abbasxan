@@ -41,6 +41,7 @@ if __name__ == '__main__':
 <br />
 
 #
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
