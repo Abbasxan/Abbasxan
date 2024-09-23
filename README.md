@@ -1,5 +1,3 @@
-
-```md
 <p align="center">
   <a align="center"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+My+GitHub+Profile!;Python+Enthusiast+and+Developer!;Building+Projects+One+Line+at+a+Time!"/></a>
 </p>
@@ -83,8 +81,10 @@ if __name__ == '__main__':
 ### 📫 **Mənə Əlaqə Saxla**
 
 - 💬 Telegram: [@neonsahib](https://t.me/neonsahib)
-- 📧 Email: [sultanov.mbk@gmail.com]()
+- 📧 Email: [Sənin email adresin]()
 
 ---
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
+```
