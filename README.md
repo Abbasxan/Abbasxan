@@ -81,7 +81,7 @@ if __name__ == '__main__':
 ### 📫 **Mənə Əlaqə Saxla**
 
 - 💬 Telegram: [@neonsahib](https://t.me/neonsahib)
-- 📧 Email: [Sənin email adresin]()
+- 📧 Email: [sultanov.mbk@gmail.com]()
 
 ---
 
