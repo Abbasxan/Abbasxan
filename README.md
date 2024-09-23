@@ -59,7 +59,24 @@ if __name__ == '__main__':
 
 ---
 
-### 📊 **GitHub Statistikası**
+### 🏆 **Dəfəələr və Sertifikatlar**
+
+- 🥇 Zavuşdim kurs "Python for Everybody" на Coursera
+- 📜 Sertifikatlı Telegram Bot Yaradıcı
+- 🎯 Kodlaşdırma müsabiqələrində mükafatlar qazanmışam
+
+---
+
+### 📸 **Galereya Proyektlərim**
+
+<p align="center">
+  <img src="https://via.placeholder.com/300x150?text=Проект+1" alt="Проект 1" style="margin-right: 20px;">
+  <img src="https://via.placeholder.com/300x150?text=Проект+2" alt="Проект 2" style="margin-right: 20px;">
+</p>
+
+---
+
+### 📈 **GitHub Statistikası**
 
 <p align="center">
 <a href="https://github.com/Abbasxan">
@@ -78,6 +95,14 @@ if __name__ == '__main__':
 
 ---
 
+### 🎯 **Məqsədlərim 2024**
+
+- 🌱 Django öyrənib tam funksional veb tətbiqi yaratmaq
+- 💼 Frilans layihələrə başlamaq (Python və JavaScript ilə)
+- 🎓 Open Source layihələrdə iştirak edərək 100+ kodlamaya töhfə vermək
+
+---
+
 ### 📫 **Mənə Əlaqə Saxla**
 
 - 💬 Telegram: [@neonsahib](https://t.me/neonsahib)
@@ -85,6 +110,11 @@ if __name__ == '__main__':
 
 ---
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+### 🙌 **Minnətdarlıq**
 
-```
+- Ən böyük təşəkkürlər [Əli,Fəird, Sammit, Mukesh, Chauhan] mənə ilham verən və proqramlaşdırma üzrə irəliləməyə kömək edənlər.
+- Kodlaşdırma icmasında sonsuz minnətdaram dəstəyiniz üçün!
+
+---
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
