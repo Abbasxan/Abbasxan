@@ -112,7 +112,7 @@ if __name__ == '__main__':
 
 ### 🙌 **Minnətdarlıq**
 
-- Ən böyük təşəkkürlər [Əli,Fəird, Sammit, Mukesh, Chauhan] mənə ilham verən və proqramlaşdırma üzrə irəliləməyə kömək edənlər.
+- Ən böyük təşəkkürlər [Əli,Fərid, Sammit, Mukesh, Chauhan] mənə ilham verən və proqramlaşdırma üzrə irəliləməyə kömək edənlər.
 - Kodlaşdırma icmasında sonsuz minnətdaram dəstəyiniz üçün!
 
 ---
