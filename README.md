@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
 ---
 
-### 🎯 **Məqsədlərim 2024**
+### 🎯 **Məqsədlərim 2026**
 
 - 🌱 Django öyrənib tam funksional veb tətbiqi yaratmaq
 - 💼 Frilans layihələrə başlamaq (Python və JavaScript ilə)
